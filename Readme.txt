@@ -1,0 +1,3 @@
+Le dossier AppServerZwave contient l'application Android à installer sur la STB Android permettant de gérer tous les objets Zwave et de recevoir des requêtes d'une autre application Android installée sur un smarthphone.
+
+Le dossier ZwaveDistantController contient l'application Android à installer sur le smartphone, permettant de gérer les objets Zwave à distance depuis un smartphone connecté au même réseau Wifi que la STB Android exécutant l'application principale.
